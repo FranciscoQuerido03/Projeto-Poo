@@ -1,0 +1,42 @@
+FastFood
+McDonalds-Coimbra-22-11-6500-13-122-320-8-120-150-20
+Burguer Queen-Beja-22-11-9000-23-145-345-6-90-200-17
+Pans-Coimbra-22-11-7200-15-200-300-20-100-11-18
+Pizza Hut-Evora-22-11-6030-24-210-312-13-87-120-19
+KFC-Portalegre-22-11-5021-25-180-321-10-130-230-21
+--
+Local
+Tasca do Ze-Viana do Castelo-22-11-6500-13-122-320-8-15-50-100
+Tasca do Xico-Porto-22-11-9000-23-145-345-6-14-60-80
+Tasca do Manel-Porto-22-11-7200-15-200-300-20-13-55-60
+Tasca do Joao-Beja-22-11-6030-24-210-312-13-12-45-70
+Tasca do To-Faro-22-11-5021-25-180-321-10-11-48-65
+--
+Cafe
+Pintassilgo-Leiria-22-11-5000-20-200-500-1
+Cafe da Esquina-Aveiro-22-11-6500-13-122-456-2
+Para Aqui-Santarem-22-11-7200-15-200-345-1
+Casa do Povo-Braga-22-11-5021-25-180-560-2
+Amarelinho-Vila Real-22-11-6030-24-210-620-1
+--
+Pastelaria
+Doce Tentacao-Guarda-22-11-5000-20-200-100-4
+Vasco da Gama-Coimbra-22-11-6500-13-122-200-5
+Moinho Velho-Lisboa-22-11-7200-15-200-130-3
+Venus-Porto-22-11-5021-25-180-140-4
+Afonso-Faro-22-11-6030-24-210-150-5
+--
+Mercado
+Mercado do Bolhao-Porto-22-11-3000-mini-200-15
+Mercado de Coimbra-Coimbra-22-11-2500-mini-300-20
+Mercado de Bragança-Bragança-22-11-2700-super-150-21
+Mercado de Beja-Beja-22-11-2800-super-400-18
+Mercado de Faro-Faro-22-11-3110-hiper-320-19
+--
+Frutaria
+Fruta da Ana-Setubal-22-11-1400-80-300
+Fruta da Maria-Evora-22-11-1200-70-250
+Fruta da Soraia-Portalegre-22-11-1350-60-319
+Fruta da Paula-Castelo Branco-22-11-2000-50-245
+Fruta da Cheila-Aveiro-22-11-2100-40-324
+--
